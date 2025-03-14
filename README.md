@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**alex-troyanov/alex-troyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">UwU</h1>
+<img src="./assets/cute-anime-girl-11.gif" width="100%">
+<div align="center">
+    <h1>Мальчик, 22 годика</h1>
+    <h2>Люблю кофе и энергетики</h2>
+</div>
+<table align="center">
+    <tr width="100%">
+        <td width="50%">
+            <h2>Очень люблю аниме и альтушек с госуслуг</h2>
+        </td>
+        <td>
+            <img src="./assets/cute-anime-girl-10.gif" width="100%">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./assets/book.png" width="100%">
+        </td>
+        <td width="50%">
+            <h2>Официальный адепт патерна</h2>
+        </td>
+    </tr>
+</table>
