@@ -1,5 +1,7 @@
 <h1 align="center">UwU</h1>
-<img src="./assets/cute-anime-girl-11.gif" width="100%">
+<div align="center">
+    <img src="./assets/cute-anime-girl-11.gif" width="50%">
+</div>
 <div align="center">
     <h1>Мальчик, 22 годика</h1>
     <h2>Люблю кофе и энергетики</h2>
